@@ -1,2 +1,2 @@
 # Nykaa_manual_project
-This is my first Repository
+This is my first Git Repository

@@ -1,5 +1,5 @@
 Manual Project
-This repository contains documents and Test cases completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
+This repository contains documents and Test cases completed during my manual testing training. The project is completed using a combination of manual testing techniques and test management tools.
 
 Getting Started
 

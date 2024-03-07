@@ -3,7 +3,7 @@ This repository contains documents and Test cases completed during my manual tes
 
 🚀Getting Started
 
-To view the details of project, simply click on the project name. The project page will contain a brief description of the project.
+To view the Test Cases and Test plan simply click on it.
 
 🤝Contributing
 
